@@ -1,0 +1,19 @@
+body {
+  margin-top: 60px;
+}
+
+h1, h2, h3, h5, p, li {
+  color:#ffffff !important;
+}
+
+.img-albert {
+  width: 100%;
+  height: auto;
+}
+
+.jumbotron {
+  background-color: #000;
+}
+
+
+
